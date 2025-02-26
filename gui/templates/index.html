@@ -3,11 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YOLO Live Stream</title>
+    <title>Hawkeye AI - Live Detection</title>
+    
+    <!-- Bootstrap CDN for Styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f4f4f4;
+        }
+        .container-fluid {
+            padding: 20px;
+        }
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .video-container {
+            border-radius: 15px;
+            overflow: hidden;
+        }
+        .log-container {
+            max-height: 400px;
+            overflow-y: auto;
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 14px;
+        }
+        .log-container::-webkit-scrollbar {
+            width: 6px;
+        }
+        .log-container::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 10px;
+        }
+        .log-container h5 {
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
-    <h1>YOLO Live Object Detection</h1>
-    <img src="{{ url_for('video_feed') }}" width="800">
+
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Live Video Feed -->
+            <div class="col-md-8">
+                <div class="card p-3">
+                    <h4 class="text-center">📡 Live Detection Feed</h4>
+                    <div class="video-container">
+                        <img src="{{ url_for('video_feed') }}" class="img-fluid rounded" style="width: 100%;">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Detection Logs -->
+            <div class="col-md-4">
+                <div class="card p-3">
+                    <h4 class="text-center">📜 Detection Logs</h4>
+                    <div id="log-box" class="log-container">
+                        <h5>Waiting for detections...</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript to Auto-Update Logs -->
+    <script>
+        function fetchLogs() {
+            fetch('/logs')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('log-box').innerHTML = "<h5>📢 Latest Detections</h5>" + data.split("\n").map(log => `<p>${log}</p>`).join("");
+                });
+        }
+        setInterval(fetchLogs, 2000);  // Refresh logs every 2 seconds
+    </script>
+
+    <!-- Bootstrap JS (optional for some effects) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
 

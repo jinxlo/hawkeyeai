@@ -24,3 +24,1098 @@
 [ WARN:0@416.708] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30056.928210 ms
 [ WARN:0@451.771] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30057.686774 ms
 [ WARN:0@451.771] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30057.772071 ms
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545021.991414    5363 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545021.997634    5363 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545024.363604    5422 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545024.422435    5422 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545037.519725    5422 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545041.716542    5469 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545041.722232    5469 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545044.053809    5489 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545044.106580    5489 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545053.633522    5489 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545056.867689    5501 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545056.873412    5501 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545059.215758    5653 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545059.267798    5653 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545070.322965    5653 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545073.472564    5722 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545073.478373    5722 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545075.843706    5741 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545075.895501    5741 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545086.970110    5742 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545090.216960    5766 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545090.222643    5766 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545092.526199    5785 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545092.577629    5785 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545103.930547    5785 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545106.987308    5797 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545106.993392    5797 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545109.431943    5816 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545109.486139    5816 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545120.253206    5816 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545123.401746    5828 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545123.407559    5828 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545125.730882    5848 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545125.781755    5848 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545136.955603    5848 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545140.163650    5859 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545140.169237    5859 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545142.489690    5880 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545142.540722    5880 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545153.615798    5879 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545156.706791    5891 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545156.712530    5891 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545159.084081    5910 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545159.135078    5910 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545170.316895    5908 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545173.481434    5922 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545173.487119    5922 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545175.822822    5939 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545175.876517    5941 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545186.923657    5941 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545189.954864    5953 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545189.960504    5953 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545192.301470    5970 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545192.352121    5970 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545203.576855    5970 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545206.755621    5984 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545206.761278    5984 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545209.056864    6002 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545209.107851    6002 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545220.274404    6001 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "/home/ubuntu/.local/lib/python3.10/site-packages/cv2/qt/plugins" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: xcb.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 1, in <module>
+    from ultralytics import YOLO
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/__init__.py", line 11, in <module>
+    from ultralytics.models import NAS, RTDETR, SAM, YOLO, FastSAM, YOLOWorld
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/__init__.py", line 3, in <module>
+    from .fastsam import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/__init__.py", line 3, in <module>
+    from .model import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/model.py", line 5, in <module>
+    from ultralytics.engine.model import Model
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/engine/model.py", line 11, in <module>
+    from ultralytics.cfg import TASK2DATA, get_cfg, get_save_dir
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/cfg/__init__.py", line 12, in <module>
+    from ultralytics.utils import (
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/utils/__init__.py", line 129, in <module>
+    cv2.setNumThreads(0)  # prevent OpenCV from multithreading (incompatible with PyTorch DataLoader)
+AttributeError: module 'cv2' has no attribute 'setNumThreads'
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 1, in <module>
+    from ultralytics import YOLO
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/__init__.py", line 11, in <module>
+    from ultralytics.models import NAS, RTDETR, SAM, YOLO, FastSAM, YOLOWorld
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/__init__.py", line 3, in <module>
+    from .fastsam import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/__init__.py", line 3, in <module>
+    from .model import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/model.py", line 5, in <module>
+    from ultralytics.engine.model import Model
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/engine/model.py", line 11, in <module>
+    from ultralytics.cfg import TASK2DATA, get_cfg, get_save_dir
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/cfg/__init__.py", line 12, in <module>
+    from ultralytics.utils import (
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/utils/__init__.py", line 129, in <module>
+    cv2.setNumThreads(0)  # prevent OpenCV from multithreading (incompatible with PyTorch DataLoader)
+AttributeError: module 'cv2' has no attribute 'setNumThreads'
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 1, in <module>
+    from ultralytics import YOLO
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/__init__.py", line 11, in <module>
+    from ultralytics.models import NAS, RTDETR, SAM, YOLO, FastSAM, YOLOWorld
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/__init__.py", line 3, in <module>
+    from .fastsam import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/__init__.py", line 3, in <module>
+    from .model import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/model.py", line 5, in <module>
+    from ultralytics.engine.model import Model
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/engine/model.py", line 11, in <module>
+    from ultralytics.cfg import TASK2DATA, get_cfg, get_save_dir
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/cfg/__init__.py", line 12, in <module>
+    from ultralytics.utils import (
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/utils/__init__.py", line 129, in <module>
+    cv2.setNumThreads(0)  # prevent OpenCV from multithreading (incompatible with PyTorch DataLoader)
+AttributeError: module 'cv2' has no attribute 'setNumThreads'
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 1, in <module>
+    from ultralytics import YOLO
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/__init__.py", line 11, in <module>
+    from ultralytics.models import NAS, RTDETR, SAM, YOLO, FastSAM, YOLOWorld
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/__init__.py", line 3, in <module>
+    from .fastsam import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/__init__.py", line 3, in <module>
+    from .model import FastSAM
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/models/fastsam/model.py", line 5, in <module>
+    from ultralytics.engine.model import Model
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/engine/model.py", line 11, in <module>
+    from ultralytics.cfg import TASK2DATA, get_cfg, get_save_dir
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/cfg/__init__.py", line 12, in <module>
+    from ultralytics.utils import (
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/ultralytics/utils/__init__.py", line 129, in <module>
+    cv2.setNumThreads(0)  # prevent OpenCV from multithreading (incompatible with PyTorch DataLoader)
+AttributeError: module 'cv2' has no attribute 'setNumThreads'
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545233.441591    6029 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545233.447302    6029 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545235.769698    6049 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545235.821039    6049 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545245.277007    6049 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545249.473000    6059 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545249.479133    6059 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545251.845804    6076 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545251.896760    6079 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545261.935897    6077 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545266.167158    6089 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545266.172920    6089 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545268.476534    6108 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545268.527743    6108 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545278.568443    6107 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545282.670445    6119 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545282.676126    6119 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545285.056137    6138 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545285.145111    6138 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545295.282028    6138 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545299.422088    6149 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545299.427867    6149 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545301.754644    6167 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545301.806085    6167 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545312.027702    6168 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545316.334636    6181 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545316.340347    6181 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545318.675732    6200 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545318.730514    6200 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545328.627948    6200 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545332.997883    6211 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545333.003619    6211 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545335.351179    6228 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545335.402098    6228 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545345.312378    6229 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545349.432920    6241 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545349.438594    6241 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545351.778151    6260 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545351.831700    6259 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545361.929668    6260 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545366.270349    6272 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545366.276062    6272 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545368.596725    6292 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545368.647904    6292 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545378.595178    6293 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545382.943722    6303 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545382.949319    6303 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545385.289299    6323 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545385.340643    6323 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545395.255924    6321 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545399.481376    6335 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545399.487011    6335 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545401.907982    6352 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545401.959585    6352 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545411.922682    6352 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545416.182536    6365 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545416.188183    6365 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545418.489837    6384 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545418.540814    6384 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545428.608618    6385 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545432.929767    6395 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545432.935368    6395 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545435.284510    6415 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545435.335969    6415 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545445.316744    6415 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545449.451471    6425 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545449.457063    6425 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545451.757834    6442 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545451.809000    6444 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545461.969030    6444 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545466.208563    6457 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545466.214243    6457 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545468.515325    6476 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545468.567702    6476 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545478.603227    6477 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545482.905919    6489 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545482.911682    6489 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545485.235441    6508 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545485.285944    6508 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545495.261394    6507 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545499.391756    6519 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545499.397543    6519 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545501.705053    6538 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545501.756841    6538 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545511.928772    6536 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545516.207071    6549 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545516.212735    6549 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545518.516333    6566 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545518.566993    6566 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545528.660031    6568 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545532.922270    6579 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545532.927943    6579 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545535.270667    6596 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545535.321413    6596 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545545.274371    6596 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545549.381152    6609 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545549.386796    6609 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545551.700713    6629 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545551.751778    6629 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545561.969073    6628 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545566.287489    6639 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545566.293133    6639 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545568.610575    6659 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545568.664482    6659 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545578.606689    6659 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545582.944843    6669 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545582.950469    6669 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545585.311987    6689 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545585.362177    6688 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545595.372806    6688 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545599.787218    6726 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545599.793018    6726 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545602.176347    6764 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545602.226378    6764 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545611.957398    6764 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545616.248535    6787 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545616.254178    6787 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545618.574935    6810 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545618.625422    6810 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545629.755524    6809 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545636.153130    6844 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545636.158837    6844 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545639.745350    6869 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545639.810725    6869 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545654.829133    6870 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545661.028507    6900 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545661.040635    6900 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545664.583966    6926 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545664.648456    6928 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545679.490711    6927 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545685.915400    6956 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545685.927264    6956 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545689.583156    6981 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545689.652259    6981 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545704.775426    6984 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545710.927446    7011 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545710.935888    7011 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545714.383432    7036 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545714.462415    7036 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+[ WARN:0@35.211] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30057.506587 ms
+[ WARN:0@35.211] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30057.601557 ms
+W0000 00:00:1740545761.981595    7037 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545766.277921    7118 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545766.283501    7118 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545768.588967    7155 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545768.640216    7155 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545778.869590    7152 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545784.967478    7187 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545784.973123    7187 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545787.828549    7214 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545787.878737    7214 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545796.358702    7215 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545802.552911    7242 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545802.559672    7242 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545806.135973    7267 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545806.214673    7267 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545821.399053    7269 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545827.737986    7298 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545827.748851    7298 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545830.629334    7323 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545830.681503    7323 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545845.225661    7321 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545849.403432    7338 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545849.409007    7338 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545851.723960    7355 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545851.775225    7355 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545861.934330    7358 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545866.169764    7369 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545866.175406    7369 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545868.473833    7388 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545868.525022    7388 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545878.637876    7386 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545882.936439    7424 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545882.942049    7424 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545885.318827    7467 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545885.369279    7467 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545895.528342    7469 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545901.797442    7494 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545901.803083    7494 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545905.399493    7516 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545905.474233    7518 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545911.897526    7518 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545916.246285    7534 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545916.251970    7534 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545918.575388    7556 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545918.626070    7556 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545929.711067    7555 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545936.215786    7580 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545936.228306    7580 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545939.889951    7602 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545939.969414    7603 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545953.596108    7603 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545957.979186    7619 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545957.984920    7619 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545960.329094    7638 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545960.386922    7638 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545970.245540    7636 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545974.524436    7649 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545974.530149    7649 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545976.880374    7666 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545976.934656    7667 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545986.945632    7668 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740545991.274434    7679 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740545991.280145    7679 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740545993.622466    7696 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740545993.673340    7696 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546003.735070    7698 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546008.302357    7709 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546008.308147    7709 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546010.697093    7728 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546010.748564    7728 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546020.291069    7726 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546024.727549    7739 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546024.733180    7739 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546027.246150    7759 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546027.296833    7759 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546036.961835    7759 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546041.271918    7769 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546041.277507    7769 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546043.757156    7788 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546043.809963    7788 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546053.618887    7787 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546057.997653    7799 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546058.003248    7799 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546060.454226    7817 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546060.506470    7817 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546070.284046    7819 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546074.824890    7831 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546074.831234    7831 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546077.372631    7850 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546077.429357    7851 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546087.003449    7851 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546091.505879    7861 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546091.512249    7861 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546093.888201    7881 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546093.940567    7881 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546103.595791    7880 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546107.948719    7891 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546107.954554    7891 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546110.385172    7910 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546110.438249    7910 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546120.277933    7911 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546124.540476    7922 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546124.546140    7922 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546126.926282    7942 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546126.981910    7942 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546136.962190    7941 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546141.178095    7952 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546141.183844    7952 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546143.515194    7970 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546143.566118    7972 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546153.883063    7971 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546158.164186    7982 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546158.169975    7982 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546160.510660    7999 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546160.561105    8002 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546170.224212    8000 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546174.499059    8012 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546174.504726    8012 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546176.823126    8031 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546176.875457    8032 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546186.953651    8031 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546191.278013    8043 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546191.283603    8043 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546193.631155    8063 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546193.682442    8063 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546203.638907    8062 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546208.013578    8075 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546208.019467    8075 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546210.383925    8094 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546210.435869    8093 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546220.367206    8094 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546224.722572    8123 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546224.728184    8123 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546227.102246    8161 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546227.153779    8161 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546237.004447    8163 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546241.194445    8184 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546241.200066    8184 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546243.567842    8203 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546243.618713    8203 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546254.921595    8206 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546261.364614    8233 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546261.370391    8233 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546264.499443    8259 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546264.547457    8258 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546280.282526    8256 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546286.443543    8285 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546286.453835    8285 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546290.011788    8306 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546290.085217    8306 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546304.774849    8305 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546311.088154    8328 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546311.098637    8328 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546314.608660    8351 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546314.673214    8351 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546329.738667    8349 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546334.529238    8372 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546334.534929    8372 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546336.865188    8396 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546336.915504    8395 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546345.276821    8396 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546349.745839    8407 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546349.751586    8407 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546352.094139    8425 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546352.145328    8425 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546361.962587    8427 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546366.263825    8437 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546366.269648    8437 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546368.645550    8454 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546368.698182    8454 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546378.585657    8454 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546382.661930    8467 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546382.667579    8467 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546385.002936    8484 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546385.053611    8484 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546395.280478    8486 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546399.740898    8497 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546399.746671    8497 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546402.085620    8514 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546402.137049    8514 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546411.969645    8515 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546416.166834    8527 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546416.172557    8527 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546418.489687    8546 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546418.539420    8546 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546428.609561    8545 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546432.993213    8557 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546432.998968    8557 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546435.298323    8575 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546435.349537    8575 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546445.279323    8574 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/home/ubuntu/hawkeye_ai/scripts/yolo_detect.py", line 51, in <module>
+    cv2.imshow("YOLO + Pose Detection", frame)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1740546449.665979    8588 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1740546449.671805    8588 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1740546452.067547    8608 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1740546452.117069    8607 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
